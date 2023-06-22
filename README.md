@@ -1,10 +1,12 @@
-# Logical Operation
+# EX:01 Logical Operation
+
+Date : 10/03/23
 
 ## AIM:
 
 To Perform logical operation ( Xor,AND, 4:1 multiplexer) using Arduino UNO Controller.
 
-## Software required:
+## SOFTWARE REQUIRED:
 
 Arduino IDE </br>
 Proteous 
@@ -102,4 +104,4 @@ void loop() {
 
 ## RESULT:
 
-Thus the logical operation was performed by Arduino UNO controller
+Thus the logical operation was performed by Arduino UNO controller.
