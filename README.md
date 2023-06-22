@@ -47,6 +47,9 @@ Logic gates are the basic building blocks of any digital system. It is an electr
 
 ## PROGRAM:
 
+Developed by : Kathirvelan.K
+
+Register number : 212221220026
 ```
 int bs0 = 0;         // variable for reading the pushbutton status
 int bs1 = 0;
